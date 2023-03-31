@@ -8,7 +8,7 @@
 
 Name:		libglib-testing
 Version:	0.1.0
-Release:	1
+Release:	2
 Summary:	Library providing test harnesses and mock classes
 Group:		System/Libraries
 License:	LGPLv2+
